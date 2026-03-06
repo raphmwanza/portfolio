@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ocean-blue: #006994;
+  --color-matte-black: #151515;
+  --color-matte-white: #F5F5F5;
+  
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+body {
+  background-color: var(--color-matte-black);
+  color: var(--color-matte-white);
+  font-family: var(--font-sans);
+}
