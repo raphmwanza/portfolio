@@ -48,7 +48,7 @@ export default function Home() {
               Resume
             </Link>
             <Link 
-              href="mailto:raphmwanza3@gmail.com"
+              href="mailto:raphmwanza4@gmail.com"
               className="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 border border-white/10 text-xs font-mono transition-colors"
             >
               Get in touch
@@ -175,7 +175,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link 
-                  href="mailto:raphmwanza3@gmail.com"
+                  href="mailto:raphmwanza4@gmail.com"
                   className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg bg-ocean-blue text-white font-bold hover:bg-ocean-blue/90 transition-all shadow-lg shadow-ocean-blue/20"
                 >
                   <Mail className="w-5 h-5" />
@@ -207,7 +207,7 @@ export default function Home() {
             <Link href="https://www.linkedin.com/in/raph-mwanza-1b1203151/" target="_blank" className="text-white/40 hover:text-ocean-blue transition-colors">
               <Linkedin className="w-5 h-5" />
             </Link>
-            <Link href="mailto:raphmwanza3@gmail.com" className="text-white/40 hover:text-ocean-blue transition-colors">
+            <Link href="mailto:raphmwanza4@gmail.com" className="text-white/40 hover:text-ocean-blue transition-colors">
               <Mail className="w-5 h-5" />
             </Link>
           </div>
